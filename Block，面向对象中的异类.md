@@ -696,3 +696,20 @@ __Block_byref_obj_0 obj = {
 ![](https://ooo.0o0.ooo/2016/11/22/58345785cd5ef.jpeg)
 
 
+
+
+
+### 引用
+
+> 博客：
+>
+> * [objc 中的 block](http://blog.ibireme.com/2013/11/27/objc-block/) 由 ibireme | 2013-11-27
+>
+> 书籍：
+>
+> * *Pro.Multithreading.and.Memory.Management.for.iOS.and.OS.X.pdf*
+>
+> Apple:
+>
+> * [Blocks Programming Topics](https://developer.apple.com/library/content/documentation/Cocoa/Conceptual/Blocks/Articles/bxUsing.html#//apple_ref/doc/uid/TP40007502-CH5-SW6)
+
