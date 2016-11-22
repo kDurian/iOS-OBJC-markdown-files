@@ -1,6 +1,6 @@
 ### [iOS 程序 main 函数之前发生了什么](http://blog.sunnyxx.com/2014/08/30/objc-pre-main/)
 
-
+From sunnyxx  
 
 # 从 dyld 开始
 
